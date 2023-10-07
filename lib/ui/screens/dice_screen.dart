@@ -9,7 +9,7 @@ class DiceScreen extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.white60,
       appBar: AppBar(
-        title: const Text('GFG | Dice'),
+        title: const Text('Dice Roller'),
         backgroundColor: const Color.fromRGBO(15, 157, 88, 1),
       ),
       body: const DiceWidget(),
